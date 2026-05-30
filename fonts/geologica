@@ -1,0 +1,13 @@
+/**
+  * @name geologica.font.vcord
+  * @author k3ro.dl
+  * @description coolio font resource
+  * @website https://youtube.com/@k3rovr
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300;500;700;900&display=swap');
+
+body {
+    --font-primary: "Geologica";
+	--font-display: "Geologica";
+}
