@@ -1,0 +1,20 @@
+/** 
+ * @name quicksand.font.vencord 
+ * @author k3rodev 
+ * @description soft minimalist font resource
+ * @website https://youtube.com/@k3rovr
+ */ 
+
+@import url('https://fonts.googleapis.com/css2?family==Quicksand:wght@500..700&display=swap');
+</style>');
+
+:root {
+  --font-primary: "Quicksand", sans-serif;
+  --font-display: "Quicksand", sans-serif;
+  --font-headline: "Quicksand", sans-serif;
+  --font-code: monospace;
+}
+
+*, ::placeholder, body, button, input, select, textarea {
+  font-family: "Quicksand", sans-serif !important;
+}
