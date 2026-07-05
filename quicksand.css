@@ -1,13 +1,11 @@
 /** 
  * @name quicksand.font.vencord 
  * @author k3rodev 
- * @description soft coolio font
+ * @description soft coolio font 
  * @website https://youtube.com/@k3rovr 
  */ 
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap'); 
 
 :root { 
   --font-primary: "Quicksand", sans-serif; 
@@ -18,4 +16,5 @@
 
 *, ::placeholder, body, button, input, select, textarea { 
   font-family: "Quicksand", sans-serif !important; 
+  font-weight: 700 !important;
 }
