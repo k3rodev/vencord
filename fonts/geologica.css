@@ -1,0 +1,19 @@
+/** 
+ * @name fredoka.font.vencord 
+ * @author k3rodev 
+ * @description coolio font geologica
+ * @website https://youtube.com/@k3rovr 
+ */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@300..700&family=Poetsen+One&display=swap');
+
+:root {
+  --font-primary: "Geologica", sans-serif;
+  --font-display: "Geologica", sans-serif;
+  --font-headline: "Geologica", sans-serif;
+  --font-code: monospace;
+}
+
+*, ::placeholder, body, button, input, select, textarea {
+  font-family: "Geologica", sans-serif !important;
+}
