@@ -1,0 +1,13 @@
+/**
+  * @name fredoka.font.vencord
+  * @author k3rodev
+  * @description coolio font resource
+  * @website https://youtube.com/@k3rovr
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poetsen+One&display=swap');
+
+body {
+    --font-primary: "Fredoka";
+	--font-display: "Fredoka";
+}
