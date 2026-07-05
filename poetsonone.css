@@ -1,0 +1,19 @@
+/** 
+ * @name poetsenone.font.vencord 
+ * @author k3rodev 
+ * @description coolio font for vcord discord
+ * @website https://youtube.com/k3rovr
+ */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@95.8,300..700&family=Poetsen+One&display=swap');
+
+:root {
+  --font-primary: "Poetsen One", sans-serif;
+  --font-display: "Poetsen One", sans-serif;
+  --font-headline: "Poetsen One", sans-serif;
+  --font-code: monospace;
+}
+
+*, ::placeholder, body, button, input, select, textarea {
+  font-family: "Poetsen One", sans-serif !important;
+}
