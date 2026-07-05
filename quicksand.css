@@ -5,7 +5,9 @@
  * @website https://youtube.com/@k3rovr 
  */ 
 
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+</style>
 
 :root { 
   --font-primary: "Quicksand", sans-serif; 
