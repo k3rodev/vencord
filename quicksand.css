@@ -1,11 +1,11 @@
 /** 
  * @name quicksand.font.vencord 
  * @author k3rodev 
- * @description soft minimalist font resource 
+ * @description soft coolio font
  * @website https://youtube.com/@k3rovr 
  */ 
 
-@import url('https://googleapis.com');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
 :root { 
   --font-primary: "Quicksand", sans-serif; 
